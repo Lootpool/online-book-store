@@ -4,7 +4,7 @@ import requests
 
 app=Flask(__name__)
 
-AUTH_SERVICE="http://localhost:5001"
+AUTH_SERVICE="https://online-book-store-1-sck8.onrender.com"
 BOOK_SERVICE="http://localhost:5002"
 ORDER_SERVICE="http://localhost:5003"
 
